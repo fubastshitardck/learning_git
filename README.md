@@ -1,2 +1,2 @@
 # learning_git
-some git learing notes
+some git learning notes
